@@ -2,10 +2,7 @@
 ---
 ### My name is Nastaran Motiee :grinning:
 ### Software Engineer Student 💻
-
-<button onclick= "window.location.href = 'https://www.linkedin.com/in/nastaran-motiee-b312b8146/';" style= "background-color: #6171F0;">
-    Linkedin
-</button>
+### Here is my Linkedin: https://www.linkedin.com/in/nastaran-motiee-b312b8146/
 <!--
 **nnastaran83/nnastaran83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
